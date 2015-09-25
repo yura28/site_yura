@@ -1,0 +1,30 @@
+body{
+	margin:0px;
+	padding:50px 0 0 0;
+	background-color:#ddd;
+	background-color:#fa7a12;
+}
+.wrapper{
+	padding: 10px;
+	background-color:#fa7a12;
+}
+#site_name{
+	color: yellow;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+#site_name_1{
+	color: green;
+}
+.otstup{
+	margin: 20px 0px;
+}
+.footer {
+    border: solid 2px #71EC66;
+    /*position: fixed;*/
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    text-align: center;
+	background-color:#CA4FEC;
+}
